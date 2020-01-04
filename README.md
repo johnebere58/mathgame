@@ -13,7 +13,7 @@ If you found this project useful, then please consider giving it a :star: on Git
 
 ### John E. Okore
 
-<a href="https://twitter.com/johnebere58"><img src="https://github.com/aritraroy/social-icons/blob/master/twitter-icon.png?raw=true" width="60"></a>
+<a href="https://twitter.com/johnebere4"><img src="https://github.com/aritraroy/social-icons/blob/master/twitter-icon.png?raw=true" width="60"></a>
 
 # Donate
 
